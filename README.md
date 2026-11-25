@@ -1,48 +1,44 @@
 <div align="center">
-  <img src="./assets/header.svg" alt="Rodaina Mohamed — Flutter Developer" width="100%"/>
-  <br/>
-  <a href="https://github.com/RodainaMohamed9?tab=repositories">Explore my repositories</a> · <a href="https://github.com/RodainaMohamed9/rodaina-portfolio">Portfolio source</a>
+<img src="./assets/header.svg" width="100%" alt="Rodaina Mohamed — Building apps with personality"/>
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=17&amp;pause=1200&amp;color=DB789F&amp;center=true&amp;vCenter=true&amp;width=520&amp;lines=From+ideas+to+mobile+experiences;Flutter+%2B+Dart+%2B+Curiosity;Clean+code.+Smooth+interfaces." alt="Flutter developer — clean code and smooth interfaces"/>
 </div>
 
-## 01 / About me
+## A little about me ✦
 
-I'm a Computer Science student at Ain Shams University and a Flutter developer focused on building intuitive mobile experiences.
+I'm a Flutter developer and Computer Science student at Ain Shams University, based in **Giza, Egypt**. I love the intersection of design and engineering: making applications feel as good as they work.
 
-I enjoy turning complex requirements into simple interfaces, with an emphasis on responsive design, smooth performance, and maintainable code.
+<table>
+<tr><td width="50%"><b>✧ What I build</b><br/>Cross-platform mobile apps, responsive interfaces and connected experiences.</td><td width="50%"><b>✧ What I care about</b><br/>Clean architecture, smooth animations, performance and thoughtful details.</td></tr>
+</table>
 
-## 02 / Selected work
+## Featured creations ✦
 
-| Project | Focus |
-| :--- | :--- |
-| [**ShadowPay**](https://github.com/RodainaMohamed9/ShadowPay) | Explore the project and its source code |
-| [**BankSystem**](https://github.com/RodainaMohamed9/BankSystem) | Banking application project |
-| [**GPA Calculator**](https://github.com/RodainaMohamed9/gpa_calculator) | Academic utility |
-| [**Personal Portfolio**](https://github.com/RodainaMohamed9/rodaina-portfolio) | Personal web presence |
+<table>
+<tr><td width="50%"><h3><a href="https://github.com/RodainaMohamed9/ShadowPay">01 / ShadowPay ↗</a></h3>Explore my project and its implementation.<br/><br/><img src="https://img.shields.io/badge/View_source-AD527B?style=flat-square" alt="View source"/></td><td width="50%"><h3><a href="https://github.com/RodainaMohamed9/BankSystem">02 / BankSystem ↗</a></h3>A banking application project.<br/><br/><img src="https://img.shields.io/badge/Banking-AD527B?style=flat-square" alt="Banking"/></td></tr>
+<tr><td><h3><a href="https://github.com/RodainaMohamed9/gpa_calculator">03 / GPA Calculator ↗</a></h3>A practical academic utility.</td><td><h3><a href="https://github.com/RodainaMohamed9/rodaina-portfolio">04 / Portfolio ↗</a></h3>My personal corner of the web.</td></tr>
+</table>
 
-## 03 / Toolkit
+## My creative toolkit ✦
 
-<p>
-<img alt="Flutter" src="https://img.shields.io/badge/Flutter-173B35?style=flat-square&amp;logo=flutter&amp;logoColor=E4EED5"/>
-<img alt="Dart" src="https://img.shields.io/badge/Dart-173B35?style=flat-square&amp;logo=dart&amp;logoColor=E4EED5"/>
-<img alt="Firebase" src="https://img.shields.io/badge/Firebase-173B35?style=flat-square&amp;logo=firebase&amp;logoColor=E4EED5"/>
-<img alt="Supabase" src="https://img.shields.io/badge/Supabase-173B35?style=flat-square&amp;logo=supabase&amp;logoColor=E4EED5"/>
-<img alt="Git" src="https://img.shields.io/badge/Git-173B35?style=flat-square&amp;logo=git&amp;logoColor=E4EED5"/>
-<img alt="React" src="https://img.shields.io/badge/React-173B35?style=flat-square&amp;logo=react&amp;logoColor=E4EED5"/>
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-173B35?style=flat-square&amp;logo=typescript&amp;logoColor=E4EED5"/>
-</p>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,git,github,react,ts,html,css&amp;perline=5" alt="Flutter, Dart, Firebase, Supabase, Git, GitHub, React, TypeScript, HTML and CSS"/>
+</div>
 
-**Mobile:** Flutter, Dart, Bloc/Cubit, REST API integration  
-**Engineering interests:** Clean architecture, reusable components, performance and accessible interfaces  
-**Web:** React, TypeScript, HTML, CSS
+**Mobile engineering:** Bloc/Cubit · REST APIs · Reusable widgets · Clean architecture
 
-## 04 / Currently exploring
+## A little progress every day ✦
 
-- Building scalable cross-platform mobile applications.
-- Improving real-time data integration and application architecture.
-- Creating polished, purposeful user experiences.
+<div align="center">
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=RodainaMohamed9&amp;bg_color=28192F&amp;color=FFD2C4&amp;line=F49BC2&amp;point=FFB7A5&amp;area=true&amp;hide_border=true&amp;radius=16" alt="GitHub contribution activity graph"/>
+</div>
 
 ---
 
 <div align="center">
-  <sub>Designed with intent. Built with care. Always evolving.</sub>
+
+**Always curious. Always creating.**
+
+[Explore my repositories ↗](https://github.com/RodainaMohamed9?tab=repositories)
+
 </div>
