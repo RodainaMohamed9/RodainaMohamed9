@@ -1,44 +1,47 @@
 <div align="center">
-<img src="./assets/header.svg" width="100%" alt="Rodaina Mohamed — Building apps with personality"/>
-<br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=17&amp;pause=1200&amp;color=DB789F&amp;center=true&amp;vCenter=true&amp;width=520&amp;lines=From+ideas+to+mobile+experiences;Flutter+%2B+Dart+%2B+Curiosity;Clean+code.+Smooth+interfaces." alt="Flutter developer — clean code and smooth interfaces"/>
+<img src="./assets/cherry-header.svg" width="100%" alt="Rodaina Mohamed — Flutter developer, Giza, Egypt"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=17&amp;pause=1200&amp;color=E87991&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=Turning+ideas+into+mobile+experiences;Design+with+purpose.+Code+with+care." alt="Turning ideas into mobile experiences"/>
 </div>
 
-## A little about me ✦
+## ✦ Behind the screen
 
-I'm a Flutter developer and Computer Science student at Ain Shams University, based in **Giza, Egypt**. I love the intersection of design and engineering: making applications feel as good as they work.
+I'm a **Flutter developer** and Computer Science student at **Ain Shams University**. Based in Giza, Egypt, I enjoy bringing ideas to life through thoughtful interfaces, smooth interactions and maintainable code.
 
-<table>
-<tr><td width="50%"><b>✧ What I build</b><br/>Cross-platform mobile apps, responsive interfaces and connected experiences.</td><td width="50%"><b>✧ What I care about</b><br/>Clean architecture, smooth animations, performance and thoughtful details.</td></tr>
-</table>
+`Mobile-first mindset` · `Clean architecture` · `Always learning`
 
-## Featured creations ✦
-
-<table>
-<tr><td width="50%"><h3><a href="https://github.com/RodainaMohamed9/ShadowPay">01 / ShadowPay ↗</a></h3>Explore my project and its implementation.<br/><br/><img src="https://img.shields.io/badge/View_source-AD527B?style=flat-square" alt="View source"/></td><td width="50%"><h3><a href="https://github.com/RodainaMohamed9/BankSystem">02 / BankSystem ↗</a></h3>A banking application project.<br/><br/><img src="https://img.shields.io/badge/Banking-AD527B?style=flat-square" alt="Banking"/></td></tr>
-<tr><td><h3><a href="https://github.com/RodainaMohamed9/gpa_calculator">03 / GPA Calculator ↗</a></h3>A practical academic utility.</td><td><h3><a href="https://github.com/RodainaMohamed9/rodaina-portfolio">04 / Portfolio ↗</a></h3>My personal corner of the web.</td></tr>
-</table>
-
-## My creative toolkit ✦
+## ✦ Selected work
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,git,github,react,ts,html,css&amp;perline=5" alt="Flutter, Dart, Firebase, Supabase, Git, GitHub, React, TypeScript, HTML and CSS"/>
+<a href="https://github.com/RodainaMohamed9/ShadowPay"><img width="48%" src="./assets/cherry-shadowpay.svg" alt="ShadowPay project"/></a>
+<a href="https://github.com/RodainaMohamed9/BankSystem"><img width="48%" src="./assets/cherry-bank.svg" alt="BankSystem project"/></a>
+<a href="https://github.com/RodainaMohamed9/gpa_calculator"><img width="48%" src="./assets/cherry-gpa.svg" alt="GPA Calculator project"/></a>
+<a href="https://github.com/RodainaMohamed9/rodaina-portfolio"><img width="48%" src="./assets/cherry-portfolio.svg" alt="Personal portfolio"/></a>
 </div>
 
-**Mobile engineering:** Bloc/Cubit · REST APIs · Reusable widgets · Clean architecture
-
-## A little progress every day ✦
-
-<div align="center">
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=RodainaMohamed9&amp;bg_color=28192F&amp;color=FFD2C4&amp;line=F49BC2&amp;point=FFB7A5&amp;area=true&amp;hide_border=true&amp;radius=16" alt="GitHub contribution activity graph"/>
-</div>
-
----
+## ✦ The tools behind my work
 
 <div align="center">
 
-**Always curious. Always creating.**
+**Mobile development**
 
-[Explore my repositories ↗](https://github.com/RodainaMohamed9?tab=repositories)
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase" alt="Flutter, Dart, Firebase, Supabase"/>
+
+**Web &amp; development tools**
+
+<img src="https://skillicons.dev/icons?i=react,ts,html,css,git,github" alt="React, TypeScript, HTML, CSS, Git, GitHub"/>
+
+</div>
+
+## ✦ Building better, one commit at a time
+
+<div align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RodainaMohamed9&amp;bg_color=29151E&amp;color=FFE4E9&amp;line=E87991&amp;point=FFE4E9&amp;area=true&amp;hide_border=true&amp;radius=16" alt="Contribution activity graph"/>
+</div>
+
+<div align="center">
+
+**Made of curiosity, creativity &amp; a little bit of code.**
+
+[Explore all repositories ↗](https://github.com/RodainaMohamed9?tab=repositories)
 
 </div>
